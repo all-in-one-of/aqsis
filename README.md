@@ -1,3 +1,5 @@
+# [https://github.com/all-in-one-of/aqsis/blob/master/tools/neqsus/houdini/hshaders.otl](https://github.com/all-in-one-of/aqsis/blob/master/tools/neqsus/houdini/hshaders.otl)
+
 aqsis_nondiffuse_pbgi
 =====================
 
